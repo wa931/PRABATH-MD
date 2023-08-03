@@ -1,4 +1,4 @@
-check in part 2# PRABATH-MD
+check in# PRABATH-MD
 🔗 Multi-device Whatsapp bot project 
 
 not released 👋 ....
